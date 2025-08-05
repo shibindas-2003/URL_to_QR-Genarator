@@ -20,4 +20,12 @@ It saves the QR as an image and also prints a preview in the terminal.
 
 ---
 
+## How to Executr
+
+- mkdir qr-genarator
+- cd qr-genarator
+- npm init -y
+- install node qrcode readsync
+- node app.js
+
 
