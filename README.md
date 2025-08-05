@@ -20,7 +20,7 @@ It saves the QR as an image and also prints a preview in the terminal.
 
 ---
 
-## How to Executr
+## How to Execute
 
 - mkdir qr-genarator
 - cd qr-genarator
